@@ -239,11 +239,24 @@
       "email": "jacquefc@usc.edu",
       "photo": null,
       "url": null
+    },
+    "srinidhi":{
+      "name": "Srinidhi Nandakumar",
+      "email": "snandaku@usc.edu",
+      "photo": null,
+      "url": "www.srinidhinandakumar.github.io"
     }
   },
   "dr-students": [
-    {
+  {
       "current" : true,
+      "title" : "Fall 2017",
+      "students" : [
+        "srinidhi"        
+       ]
+    },
+    {
+      "current" : false,
       "title" : "Summer 2016",
       "students" : [
         "anastasija",
